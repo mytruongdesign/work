@@ -1,1 +1,7 @@
 
+}
+/* universal background color */
+body {
+  background: #fafafa; 
+  overflow-x: hidden;
+}
